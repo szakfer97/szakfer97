@@ -1,7 +1,8 @@
 # Hi there!
 
 # 💫 About Me:
-💻 I’m a Full Stack Software Developer with almost 3 years of experience building scalable, high-performance web applications.<br><br>🧭 My background spans frontend and backend development, with a strong focus on clean architecture, cloud-native solutions, and automation.<br><br>🛠️ Hands-on experience with containerization, orchestration, observability, and monitoring to ensure smooth deployments, efficient scaling, and reliable system performance.<br><br>🧠 I enjoy solving complex problems, writing efficient and maintainable code, and continuously learning new technologies to refine my skills.<br><br>🚀 I’ve contributed to projects ranging from SaaS platforms to real-time web applications, always prioritizing performance, usability, and scalability.
+💻 I’m a Software Developer with 3 years of experience building scalable, high-performance applications, always developed with clean code principles and long-term maintainability in mind.
+<br><br>🧭 My background spans frontend and backend development, with a strong focus on clean architecture, cloud-native solutions, and automation.<br><br>🛠️ Hands-on experience with containerization, orchestration, observability, and monitoring to ensure smooth deployments, efficient scaling, and reliable system performance.<br><br>🚀 I’ve contributed to projects ranging from SaaS platforms to real-time web applications, always prioritizing performance, usability, and scalability.<br><br>🧠 I enjoy solving complex problems, writing efficient and maintainable code, and continuously learning new technologies to refine my skills.<br><br>🤝 Strong emphasis on collaboration, teamwork, and clear communication, actively participating in agile workflows, code reviews, and knowledge sharing to build better products together.
 
 
 ## 🌐 Socials:
